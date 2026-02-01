@@ -27,4 +27,4 @@ This project detects **faulty EV batteries** using
 - Deep Learning (LSTM)
 
 ## 👨‍🎓 Author
-**Sujal Shinde**
+**Suyash Naik**
