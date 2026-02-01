@@ -12,14 +12,15 @@ This project detects **faulty EV batteries** using
 - LSTM-based fault classification
 
 ## 📊 Results
+
 ### Raw SOC
-![Raw SOC](results/soc_raw_plot.png)
+![Raw SOC](soc_raw_plot.png)
 
 ### Smoothed SOC
-![Smoothed SOC](results/soc_smoothed_plot.png)
+![Smoothed SOC](soc_smoothed_plot.png)
 
 ### Training Accuracy
-![Accuracy](results/training_accuracy.png)
+![Training Accuracy](training_accuracy.png)
 
 ## 🛠 Tools
 - MATLAB
